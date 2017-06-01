@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/11/24 20:52:18。
+     1>项目“F:\大二编程Win32\Caculator\Caculator\Caculator.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Caculator.res" Caculator.rc 
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\大二编程Win32\Caculator\Debug\Caculator.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"F:\大二编程Win32\Caculator\Debug\Caculator.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\大二编程Win32\Caculator\Debug\Caculator.lib" /MACHINE:X86 Debug\Caculator.res
+         Debug\Caculator.obj
+         Debug\CaculatorDlg.obj
+         Debug\stdafx.obj
+         Caculator.vcxproj -> F:\大二编程Win32\Caculator\Debug\Caculator.exe
+     1>已完成生成项目“F:\大二编程Win32\Caculator\Caculator\Caculator.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.28
